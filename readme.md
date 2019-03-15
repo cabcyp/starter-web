@@ -8,7 +8,7 @@ Place.
 Learn.
 
 #Description
-Desire.
+Desire burns brightly for success.
 
 #State
 Nauseous.
