@@ -9,6 +9,7 @@ Learn.
 
 #Description
 Desire burns brightly for success.
+I am also a big long winded.
 
 #State
 Nauseous.
