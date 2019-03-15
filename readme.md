@@ -15,3 +15,6 @@ Nauseous.
 
 #Spacing
 Double.
+
+#Copyright
+Me. All Rights Reserved.
