@@ -21,4 +21,4 @@ Double.
 Because.
 
 #Copyright
-Me. All Rights Reserved.
+All Rights Reserved 2019.
